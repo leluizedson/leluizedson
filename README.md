@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leluizedson&theme=radical&card_width=170" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=leluizedson&theme=radical&card_width=170" />
   
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leluizedson&layout=compact&theme=radical&langs_count=5&card_width=170" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leluizedson&layout=compact&theme=radical&langs_count=5&card_width=170" />
 </a>
 
 # 
