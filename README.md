@@ -1,4 +1,4 @@
-## Hi there 👋
+## Eae 👋
 
 <!--
 **leluizedson/leluizedson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,18 +15,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Eae 👋
 
 ##
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=leluizedson&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leluizedson&layout=donut&theme=radical&hide=powershell,batchfile,procfile)](https://github.com/anuraghazra/github-readme-stats)
 
-[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leluizedson&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leluizedson&layout=donut&theme=midnight-purple&hide=powershell,batchfile,procfile)](https://github.com/anuraghazra/github-readme-stats)](https://res.cloudinary.com/practicaldev/image/fetch/s--X_DRh4iT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zqa2eokzf625iloavmga.png)
+# 
 
-##
+## Tecnologias usadas no dia-a-dia
+<div style="display: inline_block"><br/>
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+</div> <br>
 
-### Atualmente estudando:
+💻 Cursando Tecnico em Informatica 3º Ano - IFRN/Pau dos Ferros
+
+#
+
+## Atualmente estudando
 <div class='flex-container' >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height=30, width=30 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=30, width=30 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height=30, width=30 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height=30, width=30 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height=30, width=30 />
 </div>
+
+
+
+
