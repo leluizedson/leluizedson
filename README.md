@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ##
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=leluizedson&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leluizedson&layout=donut&theme=midnight-purple&hide=powershell,batchfile,procfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leluizedson&layout=donut&theme=radical&hide=powershell,batchfile,procfile)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 
