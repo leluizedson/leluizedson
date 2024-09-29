@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leluizedson&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leluizedson&layout=donut&theme=midnight-purple&hide=powershell,batchfile,procfile)](https://github.com/anuraghazra/github-readme-stats)
+[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leluizedson&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leluizedson&layout=donut&theme=midnight-purple&hide=powershell,batchfile,procfile)](https://github.com/anuraghazra/github-readme-stats)](https://res.cloudinary.com/practicaldev/image/fetch/s--X_DRh4iT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zqa2eokzf625iloavmga.png)
 
 ##
 
