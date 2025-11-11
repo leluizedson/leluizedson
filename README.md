@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 # 
 
-💻 Cursando Tecnico em Informatica 3º Ano - IFRN/Pau dos Ferros
+💻 Cursando Tecnico em Informatica 4º Ano - IFRN/Pau dos Ferros
 
 #
 
