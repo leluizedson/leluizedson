@@ -44,6 +44,4 @@
 
 <img src="https://raw.githubusercontent.com/leluizedson/leluizedson/output/snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/Mirlaaa/Mirlaaa/output/snake.svg" alt="Snake animation" />
-
 ###
