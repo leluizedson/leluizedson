@@ -41,3 +41,7 @@
 </div>
 
 ###
+
+<img src="https://github.com/leluizedson/leluizedson/blob/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+###
