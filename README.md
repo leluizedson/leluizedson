@@ -41,6 +41,3 @@
 </div>
 
 ###
-
-![Snake animation](https://github.com/leluizedson/leluizedson/blob/output/github-contribution-grid-snake.svg)
-###
