@@ -2,14 +2,13 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leluizedson)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZpMXhwd3ZqaHZtN25qOTBmamdzbnZtMmcwcGxma2tsMzhweGwwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif"  />
 
 ###
-
+<h3>Here's the software i'm familiar with</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -28,6 +27,7 @@
 
 ###
 
+<h3>And here's some of my social media</h3>
 <div align="left">
   <a href="https://www.youtube.com/channel/UCmm8xhy2QqrJfApS8Semqmw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -42,6 +42,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/leluizedson/leluizedson/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/leluizedson/leluizedson/blob/output/github-contribution-grid-snake.svg)
 ###
