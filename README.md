@@ -2,9 +2,6 @@
 
 ###
 
-
-###
-
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZpMXhwd3ZqaHZtN25qOTBmamdzbnZtMmcwcGxma2tsMzhweGwwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif"  />
 
 ###
@@ -29,4 +26,4 @@
 
 ###
 
-###
+<img src="https://raw.githubusercontent.com/ErnestoSESB/ErnestoSESB/output/snake.svg" alt="Snake animation" />
